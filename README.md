@@ -2,7 +2,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-TCL ve Thomson marka televizyonlar için geliştirilmiş, özellikle **Türksat kanal güncellemeleri sonrasında** bozulan veya karışan kanal sıralamasını bilgisayarınızdan kolayca düzenlemenizi sağlayan, Windows uyumlu bir masaüstü uygulamasıdır.
+> [!WARNING]
+> **Sorumluluk Reddi:** Bu uygulamanın kullanımı tamamen kullanıcının kendi sorumluluğundadır. İşlem yapmadan önce her zaman orijinal kanal listenizin yedeğini almayı unutmayın. Olası bir veri kaybı veya cihaz arızasından geliştirici sorumlu tutulamaz.
+
+TCL marka televizyonlar için geliştirilmiş ancak birçok model için uyumlu olabilir, özellikle **Türksat kanal güncellemeleri sonrasında** bozulan veya karışan kanal sıralamasını bilgisayarınızdan kolayca düzenlemenizi sağlayan, Windows uyumlu bir masaüstü uygulamasıdır.
 
 Televizyonunuzdan USB belleğe aktardığınız `tar` uzantılı kanal listesini bu program ile açıp düzenleyebilir ve tekrar televizyonunuza yükleyebilirsiniz.
 
